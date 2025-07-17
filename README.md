@@ -167,7 +167,7 @@ Provide a summary of open-source deep learning-based infrared and visible image 
 
 ## 8. Datasets
 [TNO](https://figshare.com/articles/dataset/TNO_Image_Fusion_Dataset/1008029), [RoadScene](https://github.com/hanna-xu/RoadScene), [M3FD](https://github.com/JinyuanLiu-CV/TarDAL), [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/), [MSRS](https://github.com/Linfeng-Tang/MSRS), [LLVIP](https://github.com/bupt-ai-cz/LLVIP),
- [IVS](https://github.com/xiehousheng/IVS_data), [HDO](https://github.com/xiehousheng/IVS_data), [AVIID](https://github.com/silver-hzh/Averial-visible-to-infrared-image-translation),
+ [IVS](https://github.com/xiehousheng/IVS_data), [HDO](https://github.com/xiehousheng/HDO), [AVIID](https://github.com/silver-hzh/Averial-visible-to-infrared-image-translation),
 
 ## 9. Evaluation
 [Excellent code](https://github.com/Linfeng-Tang/Evaluation-for-Image-Fusion)

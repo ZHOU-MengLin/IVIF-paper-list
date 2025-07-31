@@ -22,6 +22,7 @@
 | :------: | :----------------------------------------------------------- |
 | **2023** | [Visible and Infrared Image Fusion Using Deep Learning](https://ieeexplore.ieee.org/abstract/document/10088423) |
 | **2023** | [基于深度学习的图像融合方法综述](http://www.cjig.cn//html/2023/1/20230102.htm) |
+| **2024**  | [IVIF_ZOO: Infrared and Visible Image Fusion: From Data Compatibility to Task Adaption.](https://github.com/RollingPlain/IVIF_ZOO) |
 
 ## 2. Latest or novel IVIF method
 
